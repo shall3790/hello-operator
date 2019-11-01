@@ -1,0 +1,5 @@
+channels:
+- currentCSV: hello-operator.v0.0.1
+  name: alpha
+defaultChannel: alpha
+packageName: hello-operator
